@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"version": "0.0.1",
 	"author": "Tigrero Ronny",
+	"description": "Proyecto fase 1 en freecodecamp",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
