@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tigrero Ronny",
 	"description": "Proyecto fase 1 en freecodecamp",
+	"keywords": ["palabras","clave", "freecodecamp"],
 	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
