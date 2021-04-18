@@ -1,6 +1,7 @@
 {
-	"author": "Tigrero Ronny",
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
+	"author": "Tigrero Ronny",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
